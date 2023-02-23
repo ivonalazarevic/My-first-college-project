@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+ <rss version="2.0">
+ <channel>
+	<title>Coffee House | Home</title>
+ 	<description>Welcome to the official page of Coffee House,we serve the best Coffee in Serbia</description>
+ 	<link>https://coffeehouse111.000webhostapp.com/</link>
+ 	<item>
+ 		<title>New photos!!</title>
+ 		<description>Check out our new photos taken by our customers.</description>
+ 		<link>https://coffeehouse111.000webhostapp.com/</link>
+ 	</item>
+ 	<item>
+ 		<title>Attention Everyone!!</title>
+ 		<description>We are currently closed due to COVID-19. STAY SAFE AT HOME! </description>
+ 		<link>https://coffeehouse111.000webhostapp.com/</link>
+ 	</item>
+ </channel>
+ </rss>
